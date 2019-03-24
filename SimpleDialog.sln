@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDialog", "SimpleDialog\SimpleDialog.csproj", "{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Debug|x64.ActiveCfg = Debug|x64
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Debug|x64.Build.0 = Debug|x64
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Release|x64.ActiveCfg = Release|x64
+		{03C26E13-0FF5-4B67-8D4B-CA6D4DE8206D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA001C9A-8D7B-421D-A600-E9D9BD87BBE5}
+	EndGlobalSection
+EndGlobal

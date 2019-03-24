@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*~
+*.dll
+/packages
+/SimpleDialog/bin
+/SimpleDialog/dic
+/SimpleDialog/obj
